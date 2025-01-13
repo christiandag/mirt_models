@@ -1,0 +1,11 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1744086577	__Secure-1PSIDTS	sidts-CjIB7F1E_FHRvFu6PwZRocR7FhB5n1QX9taoLOqCc1OpqOXZUhm7ygJnNnfEby9XebSNahAA
+.youtube.com	TRUE	/	TRUE	1771357319	PREF	f6=40000000&f7=4100&tz=America.Guayaquil&f5=30000
+.youtube.com	TRUE	/	TRUE	1736799117	GPS	1
+.youtube.com	TRUE	/	TRUE	1752349323	VISITOR_INFO1_LIVE	T0LLl56oS9I
+.youtube.com	TRUE	/	TRUE	1752349323	VISITOR_PRIVACY_METADATA	CgJFQxIEGgAgRg%3D%3D
+.youtube.com	TRUE	/	TRUE	0	YSC	Wb9NAbhLkXs
+.youtube.com	TRUE	/	TRUE	1752349317	__Secure-ROLLOUT_TOKEN	CJDj9_DKr7fvswEQid6nmbrzigMYid6nmbrzigM%3D
